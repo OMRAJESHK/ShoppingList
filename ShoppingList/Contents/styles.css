@@ -1,0 +1,14 @@
+﻿body {
+    background-color: #007bffd1;
+    font-family:Arial
+}
+ul {
+    list-style-type: none;
+    padding: 0px;
+}
+li{
+    width:80%
+}
+li button {
+  
+}
